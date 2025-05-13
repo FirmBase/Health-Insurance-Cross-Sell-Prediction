@@ -1,4 +1,4 @@
-# Health Insurance Cross Sell Prediction
+# Max Life Insurance Cross Sell Prediction — Vehicle Insurance
 
 
 ## **Project Summary**
